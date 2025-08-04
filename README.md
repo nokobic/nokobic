@@ -1,4 +1,4 @@
-## Hi there 👋
+## 개인적으로 개발하고 있는 프로젝트 저장소 👋
 
 <!--
 **nokobic/nokobic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 우선 git과 GitHub 사용법을 익히고 있는 중입니다.
